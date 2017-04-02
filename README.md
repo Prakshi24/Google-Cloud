@@ -4,5 +4,6 @@
   In the script  'account.json' is the name of the credential file for Google cloud. Please change the name accordingly while running the script. 
   
   Run the commands:- 
-  $ terraform plan
+  $terraform plan
+  
   $terraform apply
